@@ -20,10 +20,10 @@ int temp_poli_vent=20, temp_gosi_struju=45,temp_visoka=30,temp_previsoka=43,temp
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-const char* ssid     = "GAASI_WIFI-EXT-2";
-const char* password = "armando1";
+const char* ssid     = "";
+const char* password = "";
 
-char auth[] = "2PlU5PRi_GqWbnamAe8vQYsY7Es1eVz4" ;
+char auth[] = "" ;
 BlynkTimer  timer;
 OneWire oneWire(oneWireBus);
 DallasTemperature sensors(&oneWire);
