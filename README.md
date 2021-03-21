@@ -28,7 +28,7 @@ Da ne bi došlo do eventualnog zapaljenja prilikom kvara releja koji pokreće ve
 Korisnik u ovom slučaju je imao dvije mogućnosti napona napajanja, preko električne mreže ili preko agregata. Problem je u tome što bi svaki put trebao fizički paliti i gasiti osigurače ili sklopke pri paljenu ili gašenju agregata koji je udaljen od razvodnog ormara. Omogućeno je putem sučelja aplikacije daljinsko uključenje ili isključenje napajanje mreže. 
 ![](Project%20images/WhatsApp%20Image%202021-03-21%20at%2014.44.08.jpeg)
 Korisnik ima trenutni i povijesni prikaz kretanja temperature u kućištu releja kao i odrađivanja hlađenja releja.
+![](Project%20images/WhatsApp%20Image%202021-03-21%20at%2014.44.09.jpeg)
 Korisnik može putem sučelja aplikacije upravljati hlađenjem releja te postaviti na koju vrijednost temperature automatika gasi releje da u slučaju pregrijavanja ne dođe do zapaljenja. Tromost služi za postavljanje razlike temperature na koju će se ventilator gasiti jer bi se u protivnom svaku par sekunda palio i gasio te bi elektromehanički relej koji upravlja ventilatorom brzo zakazao.
-![](Project%20images/WhatsApp%20Image%202021-03-21%20at%2014.44.09%20(1))
 ![](Project%20images/WhatsApp%20Image%202021-03-21%20at%2014.44.09%20(1).jpeg)
 
