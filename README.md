@@ -31,3 +31,4 @@ Korisnik ima trenutni i povijesni prikaz kretanja temperature u kućištu releja
 ![](Project%20images/WhatsApp%20Image%202021-03-21%20at%2014.44.09%20(1))
 Korisnik može putem sučelja aplikacije upravljati hlađenjem releja te postaviti na koju vrijednost temperature automatika gasi releje da u slučaju pregrijavanja ne dođe do zapaljenja. Tromost služi za postavljanje razlike temperature na koju će se ventilator gasiti jer bi se u protivnom svaku par sekunda palio i gasio te bi elektromehanički relej koji upravlja ventilatorom brzo zakazao.
 ![](Project%20images/WhatsApp%20Image%202021-03-21%20at%2014.44.09.jpeg)
+![](Project%20images/WhatsApp%20Image%202021-03-21%20at%2014.44.09.jpeg)
