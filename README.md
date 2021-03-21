@@ -17,7 +17,7 @@ The housing of the old faulty power supply of the computer, inside which the tem
 Since the relays are heating, it is necessary to perform cooling of the relay, ie automation that will turn on the fan in the relay housing if the temperature exceeds a certain value.
 In order to prevent possible damage in the event of a failure of the relay that starts the fan or the cooling fan itself, the temperature value is set at which the SSR relays will automatically turn off and prevent possible damage.
 The user in this case had two options of supply voltage, via the mains or via the generator. The problem is that every time you should physically turn on and off the fuses or switches when turning on or off the unit that is far from the distribution cabinet. The power supply of the network is enabled on or off via the application interface.
-The user can control the cooling of the relay via the application interface and set the temperature value to which the automatic switches off the relays so that ignition does not occur in the event of overheating. It also has a current and historical display of the temperature movement in the relay housing as well as the performance of the relay cooling.
+
 
 
 Pomoću arduino mikrokontrolera esp32, SSR releja, senzora temperature ds1820 i elektromehaničkog releja napravljeno je upravljanje napajanjem mreže do 50A. 
@@ -28,10 +28,12 @@ Da ne bi došlo do eventualnog zapaljenja prilikom kvara releja koji pokreće ve
 Korisnik u ovom slučaju je imao dvije mogućnosti napona napajanja, preko električne mreže ili preko agregata. Problem je u tome što bi svaki put trebao fizički paliti i gasiti osigurače ili sklopke pri paljenu ili gašenju agregata koji je udaljen od razvodnog ormara. Omogućeno je putem sučelja aplikacije daljinsko uključenje ili isključenje napajanje mreže. 
 ![](Project%20images/WhatsApp%20Image%202021-03-21%20at%2014.44.08.jpeg)
 
+The user has a current and historical display of the temperature movement in the relay housing as well as the cooling of the relay.
+
 Korisnik ima trenutni i povijesni prikaz kretanja temperature u kućištu releja kao i odrađivanja hlađenja releja.
 ![](Project%20images/WhatsApp%20Image%202021-03-21%20at%2014.44.09.jpeg)
 
-The user can control the cooling of the relay via the application interface and set the temperature value to which the automatic switches off the relays so that ignition does not occur in the event of overheating. The inertia serves to set the temperature difference at which the fan will turn off, because otherwise it would turn on and off every few seconds and the electromechanical relay that controls the fan would fail quickly.
+The user can control the cooling of the relays via the application interface and set the temperature value to which the automatic switches off the relays so that damage does not occur in the event of overheating. "tromost" serves to set the temperature difference at which the fan will turn off, because otherwise it would turn on and off every few seconds and the electromechanical relay that controls the fan would fail quickly.
 
 Korisnik može putem sučelja aplikacije upravljati hlađenjem releja te postaviti na koju vrijednost temperature automatika gasi releje da u slučaju pregrijavanja ne dođe do zapaljenja. Tromost služi za postavljanje razlike temperature na koju će se ventilator gasiti jer bi se u protivnom svaku par sekunda palio i gasio te bi elektromehanički relej koji upravlja ventilatorom brzo zakazao.
 ![](Project%20images/WhatsApp%20Image%202021-03-21%20at%2014.44.09%20(1).jpeg)
