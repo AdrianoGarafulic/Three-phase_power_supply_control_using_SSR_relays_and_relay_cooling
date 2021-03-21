@@ -30,4 +30,5 @@ Korisnik u ovom slučaju je imao dvije mogućnosti napona napajanja, preko elekt
 Korisnik ima trenutni i povijesni prikaz kretanja temperature u kućištu releja kao i odrađivanja hlađenja releja.
 Korisnik može putem sučelja aplikacije upravljati hlađenjem releja te postaviti na koju vrijednost temperature automatika gasi releje da u slučaju pregrijavanja ne dođe do zapaljenja. Tromost služi za postavljanje razlike temperature na koju će se ventilator gasiti jer bi se u protivnom svaku par sekunda palio i gasio te bi elektromehanički relej koji upravlja ventilatorom brzo zakazao.
 ![](Project%20images/WhatsApp%20Image%202021-03-21%20at%2014.44.09%20(1))
+![](Project%20images/WhatsApp%20Image%202021-03-21%20at%2014.44.09%20(1).jpeg)
 
