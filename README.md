@@ -31,8 +31,13 @@ Korisnik u ovom slučaju je imao dvije mogućnosti napona napajanja, preko elekt
 Korisnik ima trenutni i povijesni prikaz kretanja temperature u kućištu releja kao i odrađivanja hlađenja releja.
 ![](Project%20images/WhatsApp%20Image%202021-03-21%20at%2014.44.09.jpeg)
 
+The user can control the cooling of the relay via the application interface and set the temperature value to which the automatic switches off the relays so that ignition does not occur in the event of overheating. The inertia serves to set the temperature difference at which the fan will turn off, because otherwise it would turn on and off every few seconds and the electromechanical relay that controls the fan would fail quickly.
+
 Korisnik može putem sučelja aplikacije upravljati hlađenjem releja te postaviti na koju vrijednost temperature automatika gasi releje da u slučaju pregrijavanja ne dođe do zapaljenja. Tromost služi za postavljanje razlike temperature na koju će se ventilator gasiti jer bi se u protivnom svaku par sekunda palio i gasio te bi elektromehanički relej koji upravlja ventilatorom brzo zakazao.
 ![](Project%20images/WhatsApp%20Image%202021-03-21%20at%2014.44.09%20(1).jpeg)
+
+
+It is also possible to manage notifications, the user receives notifications on the mobile device if the temperature exceeds the set values. It can manage notifications on two levels, when the temperature is high and the temperature is too high. If a malfunction occurs, the user will be notified twice before the safety shutdown of the SSR relay.
 
 Omogućeno je i upravljanje notifikacijama, korisniku dolaze obavijesti na mobilni uređaj ukoliko temperatura prijeđe postavljene vrijednosti. Može upravljati obavijestima na dva nivoa, kad je temperatura visoka i temperatura previsoka. Ukoliko dođe do eventualnog kvara korisnik će biti dvaput obaviješten prije samog sigurnosnog isključenja SSR releja.
 
