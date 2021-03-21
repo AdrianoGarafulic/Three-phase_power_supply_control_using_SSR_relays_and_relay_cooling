@@ -1,4 +1,4 @@
-# Three-phase_power_supply_control_using_SSR_relays_and_relay_cooling
+# Three phase power supply control using SSR relays and relay cooling
 ![](Project%20images/WhatsApp%20Image%202021-03-21%20at%2014.42.11%20(5).jpeg)
 
 ESP32, BLYNK, ARDUINO OTA, SSR RELAYS, RELAY COOLING,CONTROLLING POWER GRID
