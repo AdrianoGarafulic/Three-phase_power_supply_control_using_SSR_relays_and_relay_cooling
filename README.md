@@ -1,5 +1,7 @@
-# _relayThree-phase_power_supply_control_using_SSR_relays__cooling
+# Three-phase_power_supply_control_using_SSR_relays_and_relay_cooling
+
 ESP32, BLYNK, ARDUINO OTA, SSR RELAYS, RELAY COOLING,CONTROLLING POWER GRID
+
 Pomoću arduino mikrokontrolera i SSR releja napravljeno je upravljanje napajanjem mreže do 50A. Pošto se releji griju 
 potrebno je izvesti i hlađenje releja odnosno automatiku koja će paliti ventilator u kućištu releja ako temperatura
 prijeđe određenu vrijednost. 
